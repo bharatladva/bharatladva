@@ -31,21 +31,8 @@
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com?user=bharatladva&theme=radical&hide_border=true" alt="GitHub Streak">
     </td>
-     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatladva&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=e05397&fire=e05397&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="Bharat Ladva's GitHub Streak" />
-    </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatladva&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF" alt="Bharat Ladva's GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bharatladva&theme=radical&hide_border=true&bg_color=0D1117&area_color=e05397&line=e05397&point=FFFFFF&color=FFFFFF&title_color=FFFFFF" alt="Bharat Ladva's Contribution Graph" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatladva&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&title_color=e05397" alt="Bharat Ladva's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=bharatladva&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
     </td>
   </tr>
 </table>
